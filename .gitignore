@@ -1,6 +1,4 @@
 *
-*/*
-*/*/*
 !.gitignore
 !README.md
-!*/week*.R
+!*/week2.R
