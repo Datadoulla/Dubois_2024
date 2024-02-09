@@ -31,22 +31,37 @@ data %>%
   #theme_void()+
   #scale_y_discrete(labels=yy)+
   scale_x_reverse(n.breaks = 9,labels = data$Year,
-                     sec.axis = sec_axis(~.,breaks = data$Year,labels = xx),
-                     expand = c(0,0))+
-  scale_y_reverse(position = 'right',labels=yy)+
-  labs(title = 'SLAVES AND FREE NEGROES .', 
-       subtitle  = 'PERCENT OF  \nFREE NEGROES')+
+                     sec.axis = sec_axis(~., breaks = data$Year, labels = xx),
+                     expand = expansion(add = 0)
+                  )+
+  scale_y_reverse(n.breaks = 4,position = 'right', labels=yy)+
+  labs(title = 'SLAVES AND FREE NEGROES.', 
+       subtitle  = 'PERCENT OF \nFREE NEGROES')+
   #coord_cartesian(ylim = c(0,3), xlim = c(1790,1870))+
   theme(panel.background = element_rect(fill = desert),
         panel.grid = element_blank(),
         axis.title = element_blank(),
         plot.background = element_rect(fill = desert),
+        text = element_text(family = 'mono'),
         axis.text.y = element_text(size = 12), 
-        axis.text.y.left = element_text(hjust = -10),
-        plot.title = element_text(hjust = .5,face = 'bold',vjust = 5,size = 18),
-        plot.subtitle = element_text(size=7,hjust = 1.3, vjust = -7),
+        axis.text.x = element_text(size = 10),
+        plot.title = element_text(hjust = .5, face = 'bold', vjust = 1, size = 18),
+        plot.subtitle = element_text(size= 9,hjust = 1.45, vjust = -5),
         #plot.margin = margin(2,2,2,2, unit = "pt"),
-        plot.margin = margin(1.5, 5, 1.5, 5, "cm"), 
-        axis.ticks.y= element_blank())
+        plot.margin = margin(1.5, 4, 1.5, 4, "cm"), 
+        axis.ticks.length.y.left = unit(.62, "cm"),
+        axis.ticks.length.y.right = unit(.62, "cm"),
+        #axis.ticks.y =element_blank(),
+        axis.ticks.y= element_blank()) #-> p
 
+ggsave('challenge02/plate_w2.png', p)
         
+
+RW <- function(N, x0, mu, variance) {
+  z<-cumsum(rnorm(n=N, mean=0, 
+                  sd=sqrt(variance)))
+  t<-1:N
+  x<-x0+t*mu+z
+  return(x)
+}
+plot(RW(300,3,0,.000001),type = 'l')
