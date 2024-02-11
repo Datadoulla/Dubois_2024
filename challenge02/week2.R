@@ -1,4 +1,4 @@
-pacman::p_load(tidyverse)
+pacman::p_load(tidyverse, ggtext,sysfonts,showtext)
 
 data <- read_csv('challenge02/data.csv')
 
@@ -43,18 +43,20 @@ data %>%
         axis.title = element_blank(),
         plot.background = element_rect(fill = desert),
         text = element_text(family = 'mono'),
-        axis.text.y = element_text(size = 12), 
-        axis.text.x = element_text(size = 10),
+        axis.text.y = element_text(size = 20), 
+        axis.text.x = element_text(size = 12),
         plot.title = element_text(hjust = .5, face = 'bold', vjust = 1, size = 18),
-        plot.subtitle = element_text(size= 9,hjust = 1.45, vjust = -5),
+        plot.subtitle = element_text(size= 8,hjust = 1.55, vjust = -1),
         #plot.margin = margin(2,2,2,2, unit = "pt"),
-        plot.margin = margin(1.5, 4, 1.5, 4, "cm"), 
-        axis.ticks.length.y.left = unit(.62, "cm"),
-        axis.ticks.length.y.right = unit(.62, "cm"),
+        plot.margin = margin(2, 3.5, 2, 3.5, "cm"), 
+        axis.ticks.length.y.left = unit(1.3, "cm"),
+        axis.ticks.length.y.right = unit(1.3, "cm"),
         #axis.ticks.y =element_blank(),
-        axis.ticks.y= element_blank()) #-> p
+        axis.ticks.y= element_blank(),
+        ) #-> p
 
-ggsave('challenge02/plate_w2.png', p)
+
+ggsave('challenge02/pla.png', p ,width = 8, height = 8, limitsize = F,units = 'cm')
         
 
 RW <- function(N, x0, mu, variance) {
