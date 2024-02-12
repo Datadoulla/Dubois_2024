@@ -1,4 +1,4 @@
-## [#DuBoisChallenge2024](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024)^1
+## [#DuBoisChallenge2024](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2024)[^1]
 
 This repository is dedicated to my participation to 2024 `#DuBoisChallenge2024`.
 
@@ -12,5 +12,5 @@ This repository is dedicated to my participation to 2024 `#DuBoisChallenge2024`.
 
 ![](./challenge02/plate_w2.png)
 
-^1: `#DuBoisChallenge2024` repository.
+[^1]: `#DuBoisChallenge2024` repository.
 [^2]: To see the code.
