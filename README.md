@@ -12,5 +12,5 @@ This repository is dedicated to my participation to 2024 `#DuBoisChallenge2024`.
 
 ![](./challenge02/plate_w2.png)
 
-[^1]: `#DuBoisChallenge2024` repository.
+^1: `#DuBoisChallenge2024` repository.
 [^2]: To see the code.
