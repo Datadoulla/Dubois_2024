@@ -7,3 +7,4 @@ challenge02/*.RDS
 .Rhistory
 fontawesome-free-6.5.1-desktop
 fontawesome-free-6.5.1-desktop/*
+*.html
