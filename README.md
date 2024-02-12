@@ -1,4 +1,4 @@
-## #DuBoisChallenge 2024
+# #DuBoisChallenge 2024
 
 This repository is dedicated to my 2024 #DuBoisChallenge participation.
 
