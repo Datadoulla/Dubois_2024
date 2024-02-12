@@ -1,6 +1,7 @@
 */.csv
 .DS_Store
 challenge02/*.csv
+challenge02/*.RDS
 .Rproj.user/
 2024.Rproj
 .Rhistory
