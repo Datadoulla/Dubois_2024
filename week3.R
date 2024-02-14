@@ -12,18 +12,16 @@ data %<>% mutate(n=1:25, X1874 = if_else(n==12,1886,X1874),
 # Color palette and labels
 desert <- '#E1D6C8'
 black <- '#282422'
-red <- '#CF2C49'
+red <- c('#CF2C49', '#E62F4D', '#E2334F')
 
 
 # Plot ---------------------------------------------------
 data %>% ggplot(aes(X338769.000,factor(X1874), 
                     label=format(txt, big.mark='.', decimal.mark = ',')))+
-  geom_col(fill = red, width = .5,orientation = 'y')+
-  #scale_y_reverse(n.breaks=24)+
+  geom_col(fill = '#E2334F', width = .5,orientation = 'y')+
   scale_y_discrete(limits=rev)+
   scale_x_continuous(expand = expansion(mult = c(0,0)))+
   labs(title = 'ACRES OF LAND OWENED BY NEGROES \nIN GEORGIA.')+
-  #theme_void()+
   geom_text(data = data %>% slice(1,25),
     aes(X338769.000/2),size=4.5, family = 'mono', fontface = "bold")+
   theme(
@@ -37,7 +35,6 @@ data %>% ggplot(aes(X338769.000,factor(X1874),
     axis.text.y = element_text(size = 12),
     plot.background = element_rect(fill = desert),
     panel.grid = element_blank()
-    #panel.background = element_rect(fill = desert)
     ) -> p
 
 
