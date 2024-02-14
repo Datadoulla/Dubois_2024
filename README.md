@@ -11,7 +11,9 @@ This repository is dedicated to my participation to 2024 `#DuBoisChallenge2024`.
 > -- <cite>[W.E.B. Du Bois](https://penntoday.upenn.edu/news/times-and-life-web-du-bois-penn)</cite>
 
 ![](./challenge02/plate_w2.png)
+See the original plate [here](challenge02/original-plate-12.jpg)
 
 ## [Week 3](./challenge03)
 
 ![](./challenge03/plate_w3.png)
+See the original plate [here](challenge03/original-plate-19.jpg)
