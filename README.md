@@ -15,5 +15,9 @@ See the original plate [here](challenge02/original-plate-12.jpg)
 
 ## [Week 3](./challenge03)
 
+> Knowing that on all sides, his advance is made doubly difficult, if not wholly shut off, by his color.
+> -- <cite>[W.E.B. Du Bois](https://penntoday.upenn.edu/news/times-and-life-web-du-bois-penn)</cite>
+
+
 ![](./challenge03/plate_w3.png)
 See the original plate [here](challenge03/original-plate-19.jpg)
