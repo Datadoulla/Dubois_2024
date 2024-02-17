@@ -15,7 +15,7 @@ See the original plate [here](challenge02/original-plate-12.jpg)
 
 ## [Week 3](./challenge03)
 
-> Black youth start in life Knowing that on all sides, his advance is made doubly difficult, if not wholly shut off, by his color.
+> Black youth start in life knowing that on all sides, his advance is made doubly difficult, if not wholly shut off, by his color.
 > -- <cite>[W.E.B. Du Bois](https://penntoday.upenn.edu/news/times-and-life-web-du-bois-penn)</cite>
 
 
