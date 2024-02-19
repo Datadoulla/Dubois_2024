@@ -21,7 +21,7 @@ data %>% ggplot(aes(X338769.000,factor(X1874),
   geom_col(fill = '#E2334F', width = .5,orientation = 'y')+
   scale_y_discrete(limits=rev)+
   scale_x_continuous(expand = expansion(mult = c(0,0)))+
-  labs(title = 'ACRES OF LAND OWENED BY NEGROES \nIN GEORGIA.')+
+  labs(title = 'ACRES OF LAND OWNED BY NEGROES \nIN GEORGIA.')+
   geom_text(data = data %>% slice(1,25),
     aes(X338769.000/2),size=4.5, family = 'mono', fontface = "bold")+
   theme(
@@ -40,3 +40,5 @@ data %>% ggplot(aes(X338769.000,factor(X1874),
 
 # Saving  ---------------------------------------------------
 ggsave('challenge03/plate_w3.png', p ,width = 6.8, height = 8, limitsize = F)
+
+
