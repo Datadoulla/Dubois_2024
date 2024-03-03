@@ -7,7 +7,7 @@ pacman::p_load(tidyverse, ggtext, magrittr)
 data <- read.csv('./challenge03/data.csv') %>% add_row(X1874=1874,X338769.000=338769, .before = 1)
 
 data %<>% mutate(n=1:25, X1874 = if_else(n==12,1886,X1874),
-                 txt = if_else(n==25,1062223,X338769.000)) %>% select(-n)
+                 txt = if_else(n==25,1062223,X338769.000)) %>% select(-`n`)
 
 # Color palette and labels
 desert <- '#E1D6C8'
