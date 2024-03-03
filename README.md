@@ -21,3 +21,12 @@ See the original plate [here](challenge02/original-plate-12.jpg)
 
 ![](./challenge03/plate_w3.png)
 See the original plate [here](challenge03/original-plate-19.jpg)
+
+## [Week 5](./challenge05)
+
+> ...
+> -- <cite>[W.E.B. Du Bois](https://penntoday.upenn.edu/news/times-and-life-web-du-bois-penn)</cite>
+
+
+![](./challenge05/plate_w5.png)
+See the original plate [here](challenge05/original-plate-13.jpg)
