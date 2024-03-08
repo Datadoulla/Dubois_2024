@@ -24,9 +24,10 @@ See the original plate [here](challenge03/original-plate-19.jpg)
 
 ## [Week 5](./challenge05)
 
-> ...
-> -- <cite>[W.E.B. Du Bois](https://penntoday.upenn.edu/news/times-and-life-web-du-bois-penn)</cite>
+En réponse à une lettre d’un étudiant noir nommé Roland Barton qui demandait en 1928 que l’on supprimât le mot « Negro » des colonnes de The Crisis en raison de son caractère insultant, Du Bois répondit :
 
+> Comprenez ceci, Roland, et comprenez le bien même si cela doit transpercer votre âme : sous n’importe quel autre nom, un Nègre serait tout aussi noir et tout aussi blanc, tout aussi honteux de lui-même et tout autant couvert de honte par les autres qu’il l’est aujourd’hui. Ce n’est pas le nom qui compte, c’est la Chose.
+> -- <cite>[W.E.B. Du Bois](https://www.cairn.info/revue-raisons-politiques-2006-1-page-97.htm#no50)</cite>
 
 ![](./challenge05/plate_w5.png)
 See the original plate [here](challenge05/original-plate-13.jpg)
