@@ -32,7 +32,7 @@ data |>
          vjust = rep(1,3)) |> 
   ggplot(aes(1,Percentage, #label= prt,
              orientation = orientation, hjust = hjust, vjust = vjust))+
-  geom_col(aes(fill=Category), width = .55)+
+  geom_col(aes(fill=Category), width = .55, color=bk, size = .4)+
   geom_text(aes(1, y=(16+40+44/2), label = '44%'), color = 'white', size=5,
             hjust = .5, vjust = .5, fontface = 'bold', family = 'mono')+
   geom_text(aes(1, y=(16+40/2), label = '40%'), color = rd, size=5,
@@ -61,7 +61,7 @@ data |>
         plot.subtitle = element_text(hjust = .5, size= 12, vjust = -4), 
         axis.text = element_blank(), 
         axis.ticks = element_blank()
-        ) -> p 
+        ) #-> p 
 
 # Saving  ---------------------------------------------------
 ggsave('challenge05/plate_w5.png', p ,width = 6.8, height = 8, limitsize = F)
