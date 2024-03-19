@@ -5,7 +5,7 @@ This repository is dedicated to my participation in 2024 `#DuBoisChallenge2024`.
 
 ------------------------------- 
 
-### [Week 2](./challenge02)
+## [Week 2](./challenge02)
 
 > I realized that some folks, a few, even several, actually considered my brown skin a misfortune. Once or twice I became painfully aware that some human beings even thought it a crime. 
 > -- <cite>[W.E.B. Du Bois](https://penntoday.upenn.edu/news/times-and-life-web-du-bois-penn)</cite>
@@ -31,3 +31,11 @@ En réponse à une lettre d’un étudiant noir nommé Roland Barton qui demanda
 
 ![](./challenge05/plate_w5.png)
 See the original plate [here](challenge05/original-plate-13.jpg)
+
+## [Week 7](./challenge07)
+
+> ...
+> -- <cite>[W.E.B. Du Bois]()</cite>
+
+![](./challenge07/plate_w7.png)
+See the original plate [here](challenge07/original-plate-47.jpg)
