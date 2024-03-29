@@ -33,16 +33,20 @@ data |> add_row(
   Negroes = c(3542147*.7, 3542147*.3, 3542147*.3)
 ) |> mutate(
   Mulattoes = if_else(Year==1860, 1113063/2, Mulattoes)/2,#*1.5,
-  mul_ = Mulattoes,
+  #mul_ = Mulattoes,
   Limit = - Mulattoes,
-  Lim_ = -mul_,
+  #Lim_ = -mul_,
   Year = c(1:4,4.1),
-  ab = mul_+Mulattoes,
+  #ab = mul_+Mulattoes,
+  ab = Mulattoes,
 ) |> 
-  pivot_longer(cols = Negroes:Lim_) |> 
+  #pivot_longer(cols = Negroes:Lim_) |> 
+  pivot_longer(cols = Negroes:Limit) |> 
   mutate(
     #Year = factor(Year, levels = c('1890','1860','1840','1800')),
+    #name = factor(name, levels = c('Negroes', 'mul_', 'Mulattoes', 'Lim_','Limit')),
     name = factor(name, levels = c('Negroes', 'mul_', 'Mulattoes', 'Lim_','Limit'))
+
     ) -> data_plot
 
 data_plot |> 
@@ -52,13 +56,20 @@ data_plot |>
   scale_x_continuous(expand = expansion(add = c(.1,.3)),)+ 
                       #labels = c('1890','1860','1840','1800'))+
   scale_y_reverse(expand = expansion(add = c(0,0)))+
-  scale_fill_manual(values = c(bk,d,br,y,yl))+
+  #scale_fill_manual(values = c(bk,d,br,y,yl))+
+  scale_fill_manual(values = c(bk, d, yl))+
   geom_ribbon(data=dt,aes(high,Year,xmin=high),xmax=Inf,fill=desert)+
   geom_line(data=dt,aes(x=high, y=Year), col= bk, orientation = "y", alpha = .5)+
-  geom_segment(data=data_plot |> slice(1:20),size=.2,
-               aes(x = Year, xend = Year, y = -Inf,yend = value+ab), col = 'white')+
-  geom_segment(data=data_plot |> slice(1:20),size=.2,
+  geom_segment(data=data_plot |> slice(1:12), size=.2,
+               aes(x = Year, xend = Year, y = -Inf, yend = (value+ab)), col = desert)+
+  geom_segment(data=data_plot |> slice(1:12), size=.2,
                aes(x = Year, xend = Year, y = -Inf,yend = -ab), col = bk)+
+  geom_line(data = (data_plot |> filter(name == 'Limit') |> 
+                      slice(-5)), size=.5,
+            aes(Year,value), col = bk)+
+  geom_line(data = (data_plot |> filter(name == 'Mulattoes') |> 
+                      slice(-5)), size=.5,
+            aes(Year,value), col = desert)+
   labs(title = 'The Amalgamation of the White and Black elements of the population\nin the United States.',
        subtitle = 'Amalgamation des elements blancs et noirs parmi la population Americaine.\n
        Done by Atlanta University, reproduice by Datadoulla.')+
@@ -70,10 +81,10 @@ data_plot |>
     panel.background = element_rect(fill = desert),
     panel.grid = element_blank(),
     plot.background = element_rect(fill = desert),
-    #text = element_text(family = 'mono'),
-    plot.title = element_text(hjust = .5#, vjust = -4, face = 'bold', #size = 10, 
+    text = element_text(family = 'mono'),
+    plot.title = element_text(hjust = .5, face = 'bold'#, vjust = -4, #size = 10, 
                               ),
-    plot.subtitle = element_text(hjust = .5, vjust = -3), 
+    plot.subtitle = element_text(hjust = .5, vjust = -3, face = 'bold'), 
     legend.position = 'None', 
     plot.margin = margin(.5,0,0,0,'cm')
   )

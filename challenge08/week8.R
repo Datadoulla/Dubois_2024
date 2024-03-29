@@ -24,7 +24,7 @@ textin2 <- "IN 1883 NEARLY 90% OF THE BLACKS WERE SLAVES.\n\nEN 1880 ENVIRON 90%
 texttitle = 'THE RISE OF THE NEGROES FROM SLAVERY TO FREEDOM IN ONE GENERATION.\n
 \nPROGRES GRADUEL DES NEGRES DE L\'ESCLAVAGE À LA LIBERTÉ EN UNE GÉNÉRATION.\n'
 
-(dt_sf |> 
+dt_sf |> 
    pivot_longer(2:3) |> 
    mutate(value = parse_double(value),
           cum = cumsum(value) - value/2,
@@ -60,7 +60,7 @@ texttitle = 'THE RISE OF THE NEGROES FROM SLAVERY TO FREEDOM IN ONE GENERATION.\
      panel.background = element_rect(fill = desert),
      panel.grid = element_blank(),
      plot.background = element_rect(fill = desert, colour = desert)
-   ) -> pleft)
+   ) -> pleft
 
 dt_ot |> 
   pivot_longer(2:3) |> 
@@ -92,7 +92,7 @@ dt_ot |>
     plot.background = element_rect(fill = desert, colour = desert), 
   ) -> pright
 
-(pleft + pright+
+pleft + pright+
   plot_layout(guides = 'collect') +
   plot_layout(widths = c(2, 1))&
   plot_annotation(title = texttitle,
@@ -105,11 +105,11 @@ dt_ot |>
     ),
     plot.subtitle = element_text(hjust = .5, vjust = -3, face = 'bold'), 
     #plot.margin = margin(.5,0,0,0,'cm')
-  ) -> p)
+  ) -> p
 
 # Saving  ---------------------------------------------------
 #ggsave('challenge08/pright.png', pright,width = 7.4, height = 8.5, limitsize = F)
 #ggsave('challenge08/pleft.png', pleft,width = 7.4, height = 8.5, limitsize = F)
-ggsave('challenge08/plate_w8.svg', p, width = 8, height = 9.5, limitsize = F)
+ggsave('challenge08/plate_w8.svg', p, width = 7.4, height = 8.5, limitsize = F)
 
 
