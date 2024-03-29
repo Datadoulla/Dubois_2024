@@ -110,6 +110,6 @@ dt_ot |>
 # Saving  ---------------------------------------------------
 #ggsave('challenge08/pright.png', pright,width = 7.4, height = 8.5, limitsize = F)
 #ggsave('challenge08/pleft.png', pleft,width = 7.4, height = 8.5, limitsize = F)
-ggsave('challenge08/plate_w8.jpeg', p,width = 7.4, height = 8.5, limitsize = F)
+ggsave('challenge08/plate_w8.svg', p, width = 8, height = 9.5, limitsize = F)
 
 

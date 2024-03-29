@@ -46,4 +46,5 @@ See the original plate [here](challenge07/original-plate-47.jpg)
 > -- <cite>[W.E.B. Du Bois]()</cite>
 
 ![](./challenge08/plate_w8.svg)
+
 See the original plate [here](challenge08/original-plate-50.jpg)
