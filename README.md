@@ -39,3 +39,11 @@ See the original plate [here](challenge05/original-plate-13.jpg)
 
 ![](./challenge07/plate_w7.png)
 See the original plate [here](challenge07/original-plate-47.jpg)
+
+## [Week 8](./challenge08)
+
+> ...
+> -- <cite>[W.E.B. Du Bois]()</cite>
+
+![](./challenge08/plate_w8.svg)
+See the original plate [here](challenge08/original-plate-50.jpg)
