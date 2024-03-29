@@ -38,10 +38,10 @@ data |>
   panel.grid = element_blank(),
   plot.background = element_rect(fill = desert),
   text = element_text(family = 'mono',face = 'bold'),
-  plot.title = element_text(hjust = .5, face = 'bold', vjust = 20, size = 15, ),
+  plot.title = element_text(hjust = .5, face = 'bold', vjust = 20, size = 12, ),
   plot.subtitle = element_text(hjust = .5, vjust = 16, face = 'bold'), 
   plot.margin = margin(3, 0, .6, 0,'cm')) -> p
 
 
 # Saving  ---------------------------------------------------
-ggsave('challenge09/plate_w9.png', p ,width = 6.8, height = 8, limitsize = F)
+ggsave('challenge09/plate_w9.png', p, width = 6.8, height = 8, limitsize = F)
