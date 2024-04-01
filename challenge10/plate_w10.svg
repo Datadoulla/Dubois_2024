@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='648.00pt' height='720.00pt' viewBox='0 0 648.00 720.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #E1D6C8;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2NDguMDB8MC4wMHw3MjAuMDA='>
+    <rect x='0.00' y='0.00' width='648.00' height='720.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMTAuNTZ8NjM3LjQ0fDAuMDB8NzIwLjAw'>
+    <rect x='10.56' y='0.00' width='626.89' height='720.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTAuNTZ8NjM3LjQ0fDAuMDB8NzIwLjAw)'>
+<rect x='10.56' y='0.00' width='626.89' height='720.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #E1D6C8;' />
+</g>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMTguNzd8NjMxLjk3fDk4LjU5fDcxMS43OA=='>
+    <rect x='18.77' y='98.59' width='613.19' height='613.19' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTguNzd8NjMxLjk3fDk4LjU5fDcxMS43OA==)'>
+<rect x='18.77' y='98.59' width='613.19' height='613.19' style='stroke-width: 1.07; stroke: none; fill: #E1D6C8;' />
+<polygon points='325.37,405.19 333.31,409.68 341.25,414.17 349.19,418.66 357.13,423.15 365.07,427.64 373.01,432.13 380.96,436.62 388.90,441.11 396.84,445.60 400.58,438.10 403.55,430.26 405.70,422.16 407.01,413.89 407.47,405.52 407.08,397.15 405.83,388.87 403.75,380.75 400.85,372.89 397.17,365.36 392.73,358.25 387.60,351.63 381.82,345.57 375.45,340.12 368.55,335.36 361.21,331.32 353.50,328.05 345.49,325.59 337.27,323.95 328.93,323.16 320.55,323.23 312.22,324.14 304.03,325.91 296.06,328.49 288.40,331.88 281.12,336.03 274.30,340.90 268.01,346.44 262.33,352.59 257.29,359.29 252.97,366.47 249.40,374.05 246.62,381.96 244.67,390.10 243.55,398.41 243.28,406.78 252.41,406.61 261.53,406.43 270.65,406.25 279.77,406.07 288.89,405.90 298.01,405.72 307.13,405.54 316.25,405.36 325.37,405.19 325.37,405.19 ' style='stroke-width: 0.21; stroke-linecap: butt; stroke-linejoin: miter; fill: #E53C58;' />
+<polygon points='325.37,405.19 316.25,405.36 307.13,405.54 298.01,405.72 288.89,405.90 279.77,406.07 270.65,406.25 261.53,406.43 252.41,406.61 243.28,406.78 243.89,415.28 245.38,423.68 247.73,431.87 250.91,439.78 254.90,447.31 259.65,454.39 265.10,460.94 271.20,466.88 277.89,472.17 285.09,476.73 292.73,480.52 300.71,483.50 308.96,485.63 317.39,486.90 325.91,487.28 334.41,486.79 342.82,485.41 340.89,476.50 338.95,467.58 337.01,458.67 335.07,449.75 333.13,440.84 331.19,431.93 329.25,423.01 327.31,414.10 325.37,405.19 325.37,405.19 ' style='stroke-width: 0.21; stroke-linecap: butt; stroke-linejoin: miter; fill: #F9C152;' />
+<polygon points='325.37,405.19 327.31,414.10 329.25,423.01 331.19,431.93 333.13,440.84 335.07,449.75 337.01,458.67 338.95,467.58 340.89,476.50 342.82,485.41 353.47,482.33 363.60,477.84 359.36,469.77 355.11,461.69 350.86,453.62 346.61,445.55 342.36,437.48 338.11,429.40 333.87,421.33 329.62,413.26 325.37,405.19 325.37,405.19 ' style='stroke-width: 0.21; stroke-linecap: butt; stroke-linejoin: miter; fill: #757CA8;' />
+<polygon points='325.37,405.19 329.62,413.26 333.87,421.33 338.11,429.40 342.36,437.48 346.61,445.55 350.86,453.62 355.11,461.69 359.36,469.77 363.60,477.84 371.98,472.77 379.70,466.74 373.66,459.90 367.63,453.06 361.59,446.22 355.55,439.38 349.52,432.54 343.48,425.70 337.44,418.86 331.41,412.02 325.37,405.19 325.37,405.19 ' style='stroke-width: 0.21; stroke-linecap: butt; stroke-linejoin: miter; fill: #968E7B;' />
+<polygon points='325.37,405.19 331.41,412.02 337.44,418.86 343.48,425.70 349.52,432.54 355.55,439.38 361.59,446.22 367.63,453.06 373.66,459.90 379.70,466.74 390.90,454.65 383.62,449.15 376.34,443.66 369.06,438.16 361.78,432.66 354.49,427.17 347.21,421.67 339.93,416.18 332.65,410.68 325.37,405.19 325.37,405.19 ' style='stroke-width: 0.21; stroke-linecap: butt; stroke-linejoin: miter; fill: #E0BDB0;' />
+<polygon points='325.37,405.19 332.65,410.68 339.93,416.18 347.21,421.67 354.49,427.17 361.78,432.66 369.06,438.16 376.34,443.66 383.62,449.15 390.90,454.65 396.84,445.60 388.90,441.11 380.96,436.62 373.01,432.13 365.07,427.64 357.13,423.15 349.19,418.66 341.25,414.17 333.31,409.68 325.37,405.19 325.37,405.19 ' style='stroke-width: 0.21; stroke-linecap: butt; stroke-linejoin: miter; fill: #BD9780;' />
+<text transform='translate(349.45,474.37) rotate(35)' text-anchor='middle' style='font-size: 8.54px; font-weight: 0; font-family: "Courier";' textLength='20.48px' lengthAdjust='spacingAndGlyphs'>4.3%</text>
+<text transform='translate(365.44,465.85) rotate(35)' text-anchor='middle' style='font-size: 8.54px; font-weight: 0; font-family: "Courier";' textLength='20.48px' lengthAdjust='spacingAndGlyphs'>3.8%</text>
+<text transform='translate(377.15,455.49) rotate(35)' text-anchor='middle' style='font-size: 8.54px; font-weight: 0; font-family: "Courier";' textLength='20.48px' lengthAdjust='spacingAndGlyphs'>3.2%</text>
+<text transform='translate(384.28,446.22) rotate(35)' text-anchor='middle' style='font-size: 8.54px; font-weight: 0; font-family: "Courier";' textLength='20.48px' lengthAdjust='spacingAndGlyphs'>2.1%</text>
+<text x='327.99' y='367.10' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-family: "Courier";' textLength='29.84px' lengthAdjust='spacingAndGlyphs'>58.5%</text>
+<text x='302.86' y='442.40' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-family: "Courier";' textLength='29.84px' lengthAdjust='spacingAndGlyphs'>28.1%</text>
+<circle cx='85.00' cy='356.35' r='5.16' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='83.84' cy='371.73' r='5.16' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='83.85' cy='387.09' r='5.16' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='83.19' cy='402.29' r='5.16' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='81.85' cy='417.59' r='5.16' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='81.68' cy='433.02' r='5.16' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='85.00' cy='356.35' r='4.62' style='stroke-width: 0.71; stroke: #E53C58; fill: #E53C58;' />
+<circle cx='83.84' cy='371.73' r='4.62' style='stroke-width: 0.71; stroke: #F9C152; fill: #F9C152;' />
+<circle cx='83.85' cy='387.09' r='4.62' style='stroke-width: 0.71; stroke: #757CA8; fill: #757CA8;' />
+<circle cx='83.19' cy='402.29' r='4.62' style='stroke-width: 0.71; stroke: #968E7B; fill: #968E7B;' />
+<circle cx='81.85' cy='417.59' r='4.62' style='stroke-width: 0.71; stroke: #E0BDB0; fill: #E0BDB0;' />
+<circle cx='81.68' cy='433.02' r='4.62' style='stroke-width: 0.71; stroke: #BD9780; fill: #BD9780;' />
+<circle cx='566.83' cy='362.11' r='5.16' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='567.63' cy='377.52' r='5.16' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='567.25' cy='392.87' r='5.16' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='567.55' cy='408.08' r='5.16' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='568.53' cy='423.40' r='5.16' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='568.33' cy='438.83' r='5.16' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='566.83' cy='362.11' r='4.62' style='stroke-width: 0.71; stroke: #E53C58; fill: #E53C58;' />
+<circle cx='567.63' cy='377.52' r='4.62' style='stroke-width: 0.71; stroke: #F9C152; fill: #F9C152;' />
+<circle cx='567.25' cy='392.87' r='4.62' style='stroke-width: 0.71; stroke: #757CA8; fill: #757CA8;' />
+<circle cx='567.55' cy='408.08' r='4.62' style='stroke-width: 0.71; stroke: #968E7B; fill: #968E7B;' />
+<circle cx='568.53' cy='423.40' r='4.62' style='stroke-width: 0.71; stroke: #E0BDB0; fill: #E0BDB0;' />
+<circle cx='568.33' cy='438.83' r='4.62' style='stroke-width: 0.71; stroke: #BD9780; fill: #BD9780;' />
+<text x='93.05' y='363.51' style='font-size: 7.68px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>Teachers</text>
+<text x='91.97' y='378.39' style='font-size: 7.68px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>House Wives</text>
+<text x='92.04' y='393.23' style='font-size: 7.68px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>Ministers</text>
+<text x='91.40' y='407.92' style='font-size: 7.68px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>Other Professions</text>
+<text x='90.05' y='422.70' style='font-size: 7.68px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>Government Service</text>
+<text x='89.83' y='437.62' style='font-size: 7.68px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>Business</text>
+<text x='558.75' y='369.08' text-anchor='end' style='font-size: 7.68px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>PROFESSEURS ET INSTITUTEURS</text>
+<text x='559.48' y='383.98' text-anchor='end' style='font-size: 7.68px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>MERES DE FAMILE</text>
+<text x='559.05' y='398.82' text-anchor='end' style='font-size: 7.68px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>MINISTRES DE L'EVANGLE</text>
+<text x='559.34' y='413.51' text-anchor='end' style='font-size: 7.68px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>MEDECINS, AVOCATS ET ETUDIENTS</text>
+<text x='560.34' y='428.32' text-anchor='end' style='font-size: 7.68px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>EMPLOYES DU GOUVERNMENT</text>
+<text x='560.19' y='443.24' text-anchor='end' style='font-size: 7.68px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>MARCHANDS</text>
+<text x='328.88' y='514.07' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>THE UNIVERSITY HAS 20 PROFESSORS AND INSTRUCTORS AND 250 STUDENTS AT PRESENT. </text>
+<text x='328.88' y='528.41' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>IT HAS FIVE BUILDINGS, 60 ACRES OF CAMPUS, AND A LIBRARY OF 11,000 VOLUMES. IT AIMS TO RAISE</text>
+<text x='328.88' y='542.75' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>AND CIVILIZE THE SONS OF THE FREEDMEN BY TRAINING THEIR MORE CAPABLE MEMBERS IN THE LIBERAL </text>
+<text x='328.88' y='557.09' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>ARTS ACCORDING TO THE BEST STANDARDS OF THE DAY.</text>
+<text x='328.88' y='571.43' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>THE PROPER ACCOMPLISHMENT OF THIS WORK DEMANDS AN ENDOWMENT FUND OF $500,000.</text>
+<text x='328.88' y='585.77' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>L'UNIVERSITÉ A ACTUELLEMENT 20 PROFESSEURS ET INSTRUCTEURS ET 250 ÉTUDIANTS.</text>
+<text x='328.88' y='600.11' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>ELLE EST COMPOSÉE DE CINQ BATIMENTS, 60 ACRES (ENVIRON 26 HECTARES) DE TERRAIN SERVANT </text>
+<text x='328.88' y='614.45' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>DE COUR ET DE CHAMP DE RECREATION ET D'UNE BIBLIOTHEQUE CONTENANT 11.000 VOLUMES.</text>
+<text x='328.88' y='628.79' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>SON BUT EST D'ÉLEVER ET DE CIVILISER LES FILS DES ESCLAVES NOIRS AFFRANCHIS EN DONNANT</text>
+<text x='328.88' y='643.13' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>AUX MIEUX DOUÉS UNE EDUCATION DANS LES ARTS LIBERAUX EN ACCORD AVEC LES IDÉES </text>
+<text x='328.88' y='657.47' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>LES PLUS PROGRESSSTES DE L'ÉPOQUE. </text>
+<text x='328.88' y='671.81' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>L'ACCOMPLISSEMENT DE CETTE OŒUVRE DEMANDE UNE DOTATION DE $500.000 (2.500.000 FRANCS).</text>
+<text x='315.58' y='279.37' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>THE UNIVERSITY WAS FOUNDED IN 1867. IT HAS INSTRUCTED 6000 NEGRO STUDENTS. </text>
+<text x='315.58' y='293.71' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'></text>
+<text x='315.58' y='308.05' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>IT HAS GRADUATED 330 NEGROES AMONG WHOM ARE:</text>
+<text x='316.60' y='291.65' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>UNIVERSTE A ÉTÉ FONDÉE EN 1867. ELLE A DONNE L'INSTRUCTION A 6000 ÉTUDIANTS NOIRS. </text>
+<text x='316.60' y='305.99' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'></text>
+<text x='316.60' y='320.33' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>ELLE A DÉLIVRÉ DES DIPLOMES A 330 NOIRS DONT:</text>
+<text x='180.44' y='182.46' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>PREPARED AND EXECUTED BY</text>
+<text x='180.44' y='196.80' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>NEGRO STUDENTS UNDER THE</text>
+<text x='180.44' y='211.14' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>DIRECTION OF</text>
+<text x='180.44' y='225.48' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>ATLANTA UNIVERSITY.</text>
+<text x='180.44' y='239.82' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>ATLANTA, GA. </text>
+<text x='180.44' y='254.16' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>UNITED STATES OF AMERICA.</text>
+<text x='470.06' y='182.28' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>PRÉPARÉES ET EXECUTERS PAR</text>
+<text x='470.06' y='196.62' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>LES ÉTUDIANTS NOIRS SOUS</text>
+<text x='470.06' y='210.96' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>LA DRECTION DE L'UNVERSITÉ</text>
+<text x='470.06' y='225.30' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>D'ATLANTA.</text>
+<text x='470.06' y='239.64' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>ÉTAT DE GEORGIE.</text>
+<text x='470.06' y='253.98' text-anchor='middle' style='font-size: 9.96px; font-weight: 0; font-style: italic;fill: #FF0000; font-family: "Courier";' textLength='0.00px' lengthAdjust='spacingAndGlyphs'>ÉTATS LINES D'AMERIQUE.</text>
+</g>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHw3MjAuMDA=)'>
+<text x='324.00' y='115.72' text-anchor='middle' style='font-size: 13.00px; font-weight: 0;fill: #FF0000; font-family: "Courier";' textLength='530.73px' lengthAdjust='spacingAndGlyphs'>UNE SÉRIE DE CARTES ET DIAGRAMNES STATISTIQUES MOITRANT LA CONDITION</text>
+<text x='324.00' y='129.76' text-anchor='middle' style='font-size: 13.00px; font-weight: 0;fill: #FF0000; font-family: "Courier";' textLength='530.73px' lengthAdjust='spacingAndGlyphs'>PRESENTE DES DESCENDANTS DES ANCIENS ESCLAVER AFRICAINS ACTUELLEMENT</text>
+<text x='324.00' y='143.80' text-anchor='middle' style='font-size: 13.00px; font-weight: 0;fill: #FF0000; font-family: "Courier";' textLength='320.00px' lengthAdjust='spacingAndGlyphs'>ETABILIS DANS LES ETATS LINIS D'AMÉRIQUE.</text>
+<text x='324.00' y='58.01' text-anchor='middle' style='font-size: 15.00px; font-weight: 0; font-family: "Courier";' textLength='558.00px' lengthAdjust='spacingAndGlyphs'>A SERIES OF STATISTICAL CHARTS, ILLUSTRATING THE CONDITION OF </text>
+<text x='324.00' y='74.21' text-anchor='middle' style='font-size: 15.00px; font-weight: 0; font-family: "Courier";' textLength='513.00px' lengthAdjust='spacingAndGlyphs'>THE DESCENDANTS OF FORMER AFRICAN SLAVES NOW RESIDENT IN </text>
+<text x='324.00' y='90.41' text-anchor='middle' style='font-size: 15.00px; font-weight: 0; font-family: "Courier";' textLength='261.00px' lengthAdjust='spacingAndGlyphs'>THE UNITED STATES OF AMERICA.</text>
+</g>
+</svg>
